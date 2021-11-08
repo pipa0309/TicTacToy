@@ -1,3 +1,4 @@
+//forCheck
 package HomeTaskFour;
 
 import java.util.Random;
